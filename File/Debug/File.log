@@ -1,0 +1,33 @@
+﻿  chef.cpp
+  customer.cpp
+C:\Users\El-Wattaneya\Desktop\file project\File\File\customer.cpp(30,31): warning C4805: '&': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\El-Wattaneya\Desktop\file project\File\File\customer.cpp(31,31): warning C4805: '&': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\El-Wattaneya\Desktop\file project\File\File\customer.cpp(32,31): warning C4805: '&': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\El-Wattaneya\Desktop\file project\File\File\customer.cpp(33,31): warning C4805: '&': unsafe mix of type 'int' and type 'bool' in operation
+  LargeMain.cpp
+  meal.cpp
+  order.cpp
+  supplier.cpp
+  varlen.cpp
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(44,19): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(264,23): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(287,24): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(306,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(317,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(346,24): warning C4244: '=': conversion from 'std::streamoff' to 'short', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(359,26): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(372,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(386,26): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(448,28): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(458,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(504,25): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(517,8): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(537,8): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(629,29): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(694,10): warning C4101: 'temp': unreferenced local variable
+  waiter.cpp
+  Generating Code...
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(274): warning C4715: 'VariableLengthRecord::Write': not all control paths return a value
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(436): warning C4715: 'VariableLengthRecord::Write': not all control paths return a value
+C:\Users\El-Wattaneya\Desktop\file project\File\File\varlen.cpp(419): warning C4715: 'VariableLengthRecord::WriteinAvailableList': not all control paths return a value
+  File.vcxproj -> C:\Users\El-Wattaneya\Desktop\file project\File\Debug\File.exe
